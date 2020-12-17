@@ -1,0 +1,12 @@
+{
+  "name": "fullstack-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com/abhishekdey/fullstack.git",
+  "author": "Abhishek Dey",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "styled-components": "^5.2.1"
+  }
+}

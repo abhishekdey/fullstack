@@ -33,7 +33,8 @@ To get this working right you'll need to create API keys for [Google Places](htt
 
 ```sh
 # Run mongo
-sudo mongod
+# sudo mongod
+mongod --port 27017 --dbpath /usr/local/var/lib/mongodb
 
 # In ./server
 yarn install
@@ -51,7 +52,6 @@ yarn gen:types:watch
 [MIT](LICENSE)
 
 # mongo startup
-
 mongod --port 27017 --dbpath /usr/local/var/lib/mongodb
 sudo chown abhishekdey /usr/local/var/log/mongodb
 id -un

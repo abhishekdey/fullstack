@@ -1,0 +1,148 @@
+function () {
+    // var x;
+    console.log(x);// undefined
+    var x = 90; //
+    x = x + 2;
+}
+
+
+function outer() {
+    var a = 00;
+    return function inner() {
+        console.log(a);
+    }
+}
+
+
+outer
+(0(0))
+
+
+for (var i = 0; i < 5; i++) {
+setTimeout( (function() { console.log(i);)(i) }, i * 1000 );
+}
+
+
+<div onclic = oeven>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+
+</div>
+
+
+
+var a = function() {
+
+    this.a1 = 90;
+    a2 = function () { return this.a1}
+}
+
+a.a2.bind(a);
+
+
+function parent {
+    this.a = 0;
+}
+
+
+function  child {
+    parent.call(this)
+}
+//  55555
+
+
+
+
+
+'Abhishek'.toCaps()
+
+String.prototype.toCaps = function(val) {
+    return `val'.toUpperCase();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rxjs.of([4,5,66]);
+
+//768
+
+next()
+
+
+4 ,5,66
+768
+
+
+new Promise((resolve, reject) => { redolve})
+
+//10 //11
+function(a,b) {
+a = a-b;  10-11 = -1
+a = 
+
+}
+
+let a = {fname: 'dd' lname: 'd'};
+
+let {fname, lanamuuu} = a;
+
+
+
+//
+
+
+implement HTTPinterceptors
+
+expor
+
+candec
+
+
+https://dictionary.yandex.net/api/v1/dicservice.json/lookup?key=dict.1.1.20170610T055246Z.0f11bdc42e7b693a.eefbde961e10106a4efa7d852287caa49ecc68cf&lang=en-ru&text=time
+https://dictionary.yandex.net/api/v1/dicservice.json/lookup?key=dict.1.1.20170610T055246Z.0f11bdc42e7b693a.eefbde961e10106a4efa7d852287caa49ecc68cf&lang=en-ru&text=time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
